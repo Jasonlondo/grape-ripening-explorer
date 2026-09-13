@@ -1,0 +1,833 @@
+cultivar,program,region,date,year,gdd_cumulative,brix,ta,ph,brix_ta_ratio,berry_weight_g,berry_size_mm,n_samples,n_sites,provenance
+Aravelle,NYWGF,Finger Lakes,2024-07-01,2024,938.0,3.8,24.23,2.99,0.16,0.29,9.6,1,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2024-07-16,2024,1235.0,4.5,41.36,2.71,0.11,0.6,11.4,1,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2024-07-31,2024,1488.0,8.9,33.0,2.81,0.27,0.78,12.3,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2024-08-12,2024,1688.0,13.7,16.14,3.07,0.85,1.2,12.6,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2024-08-28,2024,1925.0,18.6,12.49,2.99,1.49,1.38,12.4,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2024-09-09,2024,2076.0,19.4,8.84,3.11,2.2,1.35,14.9,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-07-06,2025,946.0,6.5,39.55,2.76,0.16,0.24,,1,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-07-20,2025,1208.0,4.1,38.39,2.73,0.11,0.69,12.8,1,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-07-30,2025,1387.0,4.7,42.88,2.9,0.11,0.81,13.5,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-08-19,2025,1717.0,14.5,14.96,2.96,0.97,1.13,14.8,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-09-04,2025,1916.0,19.2,8.45,3.02,2.29,1.41,15.7,5,1,Extension monitoring
+Aravelle,NYWGF,Finger Lakes,2025-09-18,2025,2077.0,20.8,5.93,3.22,3.5,1.64,16.4,3,1,Extension monitoring
+Aravelle,Veraison to Harvest,Finger Lakes,2025-08-29,2025,1844.0,17.2,12.84,3.02,1.34,,,2,1,Extension monitoring
+Aravelle,Veraison to Harvest,Finger Lakes,2025-09-08,2025,1957.0,19.2,10.74,2.83,1.79,,,1,1,Extension monitoring
+Aravelle,Veraison to Harvest,Finger Lakes,2025-09-15,2025,2038.0,20.0,9.19,2.98,2.18,,,1,1,Extension monitoring
+Aravelle,Veraison to Harvest,Finger Lakes,2025-09-22,2025,2121.0,20.9,8.45,3.05,2.47,,,1,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-07-01,2024,1021.0,3.5,23.12,2.8,0.15,0.7,11.4,1,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-07-18,2024,1330.0,3.9,30.51,2.96,0.13,1.06,13.3,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-07-30,2024,1534.0,8.8,29.63,2.88,0.3,1.52,14.7,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-08-13,2024,1778.0,15.4,13.85,3.11,1.12,2.12,14.4,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-08-26,2024,1971.0,20.9,8.94,3.39,2.36,2.1,14.6,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2024-09-09,2024,2180.0,24.3,7.78,3.55,3.12,2.18,16.0,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2025-07-07,2025,1011.0,3.9,28.5,2.91,0.14,,,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2025-07-24,2025,1310.0,4.1,29.64,2.78,0.14,,,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2025-08-07,2025,1552.0,8.0,26.42,2.9,0.3,,,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2025-08-19,2025,1776.0,13.9,13.11,3.14,1.06,,,5,1,Extension monitoring
+Aurore,NYWGF,Western NY,2025-09-08,2025,2024.0,16.5,10.78,3.2,1.53,1.33,14.0,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-07-01,2024,968.0,4.5,25.01,2.96,0.18,0.29,9.9,1,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,5.0,41.42,2.77,0.12,0.68,12.6,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,8.3,26.86,2.86,0.31,0.86,11.9,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,16.0,14.89,3.12,1.08,1.12,13.9,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,19.1,9.45,3.2,2.04,1.28,15.4,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-09-24,2024,2323.0,20.8,9.62,3.23,2.18,1.44,14.8,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2024-10-01,2024,2414.0,20.8,5.49,3.33,3.79,1.43,14.7,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-07-06,2025,980.0,7.8,41.92,2.92,0.19,0.17,,1,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-07-20,2025,1248.0,4.4,38.03,2.71,0.12,0.62,12.5,1,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-08-03,2025,1486.0,4.6,41.46,2.91,0.11,0.69,12.9,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-08-19,2025,1774.0,8.1,31.68,2.78,0.26,0.8,12.4,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-09-04,2025,1980.0,14.8,10.15,3.09,1.47,1.16,13.7,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-09-17,2025,2134.0,18.8,5.76,3.36,3.3,1.34,14.1,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-09-29,2025,2290.0,20.8,4.57,3.23,4.57,1.38,14.0,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Finger Lakes,2025-10-15,2025,2432.0,22.7,4.86,3.32,4.68,1.32,13.9,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-07-01,2024,1013.0,4.1,21.76,2.81,0.19,0.34,9.9,1,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-07-18,2024,1321.0,3.7,27.44,2.95,0.14,0.82,12.3,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-07-30,2024,1523.0,4.7,31.37,2.85,0.15,0.84,12.3,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-08-13,2024,1765.0,6.8,32.22,2.75,0.21,1.06,13.1,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-08-26,2024,1957.0,13.7,13.63,3.06,1.01,1.34,12.0,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-09-09,2024,2163.0,19.3,8.5,3.4,2.27,1.56,12.7,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-09-16,2024,2269.0,19.2,7.7,3.32,2.5,1.42,12.2,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-09-23,2024,2381.0,22.2,4.83,3.66,4.62,1.46,13.9,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-09-30,2024,2486.0,22.7,5.3,3.67,4.31,1.54,14.4,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-10-07,2024,2564.0,22.5,5.03,3.65,4.48,1.58,12.7,5,1,Extension monitoring
+Cabernet Franc,NYWGF,Western NY,2024-10-18,2024,2631.0,23.5,4.68,3.74,5.08,1.55,14.3,10,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1753.0,13.1,17.98,2.82,0.73,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-08-27,2024,1870.0,14.9,15.72,2.82,0.97,,,4,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-09-02,2024,1949.0,16.4,13.37,2.95,1.27,,,4,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-09-07,2024,2038.0,19.2,9.9,3.04,1.97,,,6,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-09-18,2024,2146.0,20.0,8.08,3.13,2.51,,,6,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-09-21,2024,2244.0,21.5,7.38,3.17,3.0,,,4,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2024-09-28,2024,2346.0,21.6,6.77,3.24,3.31,,,5,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-08-28,2025,1837.0,11.6,24.37,2.65,0.51,,,6,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-09-02,2025,1774.0,11.9,25.3,2.65,0.47,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-09-08,2025,1951.0,16.1,15.39,2.84,1.15,,,9,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-09-17,2025,2065.0,19.0,11.13,2.98,1.73,,,5,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-09-27,2025,2152.0,20.5,8.92,3.1,2.34,,,6,5,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-09-30,2025,2253.0,21.6,8.37,3.12,2.59,,,5,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Finger Lakes,2025-10-10,2025,2348.0,23.7,7.95,3.14,3.06,,,7,4,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-08-26,2024,2028.0,12.9,11.68,2.96,1.1,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2145.0,15.0,8.08,3.22,1.86,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2225.0,17.4,7.1,3.29,2.45,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2321.0,18.6,6.4,3.38,2.91,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-09-23,2024,2416.0,20.2,5.9,3.4,3.42,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2503.0,20.4,6.26,3.36,3.26,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1980.0,17.6,10.69,3.04,1.65,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-09-02,2025,2075.0,19.9,8.8,3.03,2.26,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-09-08,2025,2157.0,20.1,7.01,3.31,2.87,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2244.0,22.3,6.04,3.31,3.69,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2328.0,24.1,5.57,3.37,4.33,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Hudson Valley,2025-09-29,2025,2431.0,24.4,4.96,3.5,4.92,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,14.1,16.48,2.8,0.86,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,16.0,14.31,3.05,1.12,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,19.9,8.98,3.2,2.22,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-09-16,2024,2286.0,21.9,8.85,3.19,2.47,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-09-23,2024,2398.0,22.5,7.39,3.39,3.04,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2024-09-30,2024,2504.0,22.5,5.89,3.47,3.82,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,13.5,19.1,2.76,0.71,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,14.9,14.19,2.91,1.05,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,17.7,11.22,3.06,1.58,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-09-22,2025,2212.0,20.3,8.09,3.15,2.51,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-10-02,2025,2352.0,22.0,8.12,3.26,2.72,,,2,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Lake Erie,2025-10-13,2025,2453.0,23.5,7.28,3.29,3.23,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-08-26,2024,2008.0,15.7,12.47,3.08,1.26,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-09-02,2024,2129.0,17.9,8.69,3.28,2.09,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-09-09,2024,2218.0,18.8,7.42,3.38,2.57,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-09-16,2024,2311.0,20.0,6.3,3.45,3.19,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-09-25,2024,2441.0,20.6,6.25,3.54,3.33,,,3,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2024-09-30,2024,2507.0,21.5,5.22,3.55,4.12,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-08-25,2025,1987.0,15.9,11.82,3.09,1.35,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-09-02,2025,2096.0,17.7,8.8,3.1,2.01,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-09-08,2025,2180.0,18.8,6.96,3.28,2.71,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-09-15,2025,2274.0,19.8,6.34,3.29,3.14,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-09-22,2025,2368.0,21.0,5.7,3.43,3.69,,,2,2,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-09-29,2025,2476.0,22.3,5.96,3.45,3.74,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Long Island,2025-10-06,2025,2560.0,22.4,4.99,3.57,4.49,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,13.5,23.09,2.61,0.58,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,16.2,18.3,2.76,0.89,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,17.4,15.04,2.83,1.16,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,20.0,11.12,3.0,1.8,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,22.2,8.64,3.08,2.57,,,1,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-10-02,2025,2350.0,23.9,7.56,3.16,3.19,,,2,1,Extension monitoring
+Cabernet Franc,Veraison to Harvest,Niagara,2025-10-13,2025,2447.0,25.1,6.02,3.31,4.17,,,1,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-07-01,2024,968.0,4.0,19.99,3.02,0.2,0.12,7.3,1,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-07-16,2024,1256.0,3.8,34.57,2.73,0.11,0.52,11.3,1,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,4.5,41.56,2.76,0.11,0.58,14.0,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,7.9,28.68,2.86,0.28,0.75,14.5,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,14.7,15.96,2.98,0.93,1.0,14.5,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,17.9,11.43,3.05,1.57,1.35,13.7,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-09-24,2024,2323.0,19.2,9.06,3.19,2.15,1.22,13.8,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2024-10-01,2024,2414.0,19.8,5.88,3.26,3.37,1.29,14.1,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-07-06,2025,980.0,8.1,41.32,3.04,0.2,0.1,,1,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-07-20,2025,1248.0,4.3,38.73,2.7,0.11,0.43,11.1,1,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-08-03,2025,1486.0,5.0,44.14,2.91,0.11,0.46,11.4,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-08-19,2025,1774.0,8.5,33.38,2.83,0.26,0.49,10.5,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-09-05,2025,1994.0,14.7,9.4,3.05,1.57,1.13,13.6,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-09-17,2025,2134.0,17.2,6.51,3.22,2.65,1.29,14.0,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-09-29,2025,2290.0,17.8,6.44,3.21,2.78,1.37,13.9,5,1,Extension monitoring
+Cabernet Sauvignon,NYWGF,Finger Lakes,2025-10-15,2025,2432.0,20.4,5.29,3.3,3.87,1.27,13.5,5,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,13.7,19.72,2.8,0.69,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,18.4,8.02,3.32,2.29,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,18.2,11.86,3.08,1.53,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-09-16,2024,2286.0,19.4,11.2,3.08,1.73,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-09-23,2024,2398.0,20.5,9.4,3.21,2.18,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2024-09-30,2024,2504.0,20.2,7.78,3.3,2.6,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,11.0,27.1,2.65,0.41,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,15.4,20.0,2.78,0.77,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,17.1,14.78,2.91,1.16,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,18.7,11.42,3.04,1.64,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-09-22,2025,2212.0,20.4,8.67,3.14,2.35,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-10-02,2025,2352.0,21.1,8.64,3.24,2.44,,,2,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Lake Erie,2025-10-13,2025,2453.0,22.2,7.14,3.37,3.11,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,16.2,17.51,2.72,0.93,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,17.5,15.8,2.8,1.11,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,18.4,12.96,2.87,1.42,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,20.7,9.74,2.99,2.13,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,22.0,7.6,3.12,2.89,,,1,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-10-02,2025,2350.0,23.0,6.98,3.14,3.3,,,2,1,Extension monitoring
+Cabernet Sauvignon,Veraison to Harvest,Niagara,2025-10-13,2025,2447.0,24.5,5.35,3.24,4.58,,,1,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-07-01,2024,1013.0,4.0,20.35,2.84,0.2,0.28,9.2,1,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-07-18,2024,1321.0,3.5,26.95,2.96,0.13,0.7,11.6,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-07-30,2024,1523.0,4.6,31.49,2.86,0.15,0.88,12.4,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-08-13,2024,1765.0,8.4,28.92,2.8,0.29,1.0,11.6,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-08-26,2024,1957.0,13.9,17.03,3.06,0.83,1.24,11.1,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-09-09,2024,2163.0,18.6,9.36,3.32,1.99,1.56,12.4,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-09-16,2024,2269.0,20.4,6.66,3.36,3.07,1.24,12.5,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-09-23,2024,2381.0,21.4,5.78,3.53,3.71,1.62,14.3,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-09-30,2024,2486.0,20.6,5.35,3.61,3.86,1.56,14.3,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-10-07,2024,2564.0,20.9,4.68,3.65,4.48,1.54,13.0,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2024-10-18,2024,2631.0,21.7,4.65,3.64,4.69,1.61,14.5,10,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-07-07,2025,1005.0,4.5,23.51,2.85,0.19,,,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-07-24,2025,1302.0,3.9,26.27,2.83,0.15,,,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-08-07,2025,1543.0,4.4,34.46,2.77,0.13,,,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-08-19,2025,1766.0,4.6,31.08,2.87,0.15,,,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-09-08,2025,2013.0,17.7,13.26,3.1,1.34,1.25,13.0,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-09-22,2025,2200.0,19.1,8.52,3.21,2.25,1.32,13.5,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-10-06,2025,2383.0,19.8,6.19,3.46,3.27,1.31,13.7,5,1,Extension monitoring
+Cabernet Sauvignon (C3),NYWGF,Western NY,2025-10-13,2025,2440.0,22.9,5.29,3.68,4.32,1.43,14.1,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-07-18,2024,1321.0,3.5,26.68,2.97,0.13,0.8,12.2,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-07-30,2024,1523.0,4.3,31.95,2.85,0.14,0.94,12.6,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-08-13,2024,1765.0,8.3,28.49,2.83,0.3,1.14,11.9,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-08-26,2024,1957.0,14.7,17.72,3.03,0.84,1.3,11.1,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-09-09,2024,2163.0,17.8,9.95,3.3,1.79,1.32,11.9,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-09-16,2024,2269.0,18.2,7.94,3.33,2.29,1.5,14.0,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-09-23,2024,2381.0,20.5,6.09,3.51,3.38,1.5,14.0,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-09-30,2024,2486.0,21.6,5.34,3.64,4.06,1.58,14.4,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-10-07,2024,2564.0,20.9,5.15,3.62,4.06,1.68,13.4,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2024-10-18,2024,2631.0,21.1,4.91,3.62,4.32,1.6,14.4,10,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-07-07,2025,1005.0,4.4,22.22,2.93,0.2,,,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-07-24,2025,1302.0,4.1,27.65,2.8,0.15,,,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-08-07,2025,1543.0,4.1,32.95,2.81,0.13,,,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-08-19,2025,1766.0,8.0,32.85,2.85,0.24,,,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-09-08,2025,2013.0,15.2,14.56,3.09,1.05,1.27,13.0,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-09-22,2025,2200.0,19.1,8.87,3.19,2.15,1.29,13.1,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-10-06,2025,2383.0,20.8,7.19,3.4,2.9,1.4,14.0,5,1,Extension monitoring
+Cabernet Sauvignon (CR),NYWGF,Western NY,2025-10-13,2025,2440.0,22.6,5.66,3.64,4.0,1.54,14.4,5,1,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1797.0,15.5,13.42,2.93,1.15,,,1,1,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1882.0,16.4,11.26,2.98,1.53,,,2,2,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-09-04,2024,1953.0,17.1,10.3,3.05,1.66,,,3,2,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-09-09,2024,2050.0,19.2,8.51,3.13,2.28,,,4,3,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-09-16,2024,2176.0,21.2,6.7,3.16,3.16,,,1,1,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2274.0,22.4,5.9,3.27,3.8,,,1,1,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-08-25,2025,1741.0,12.5,16.33,2.75,0.77,,,1,1,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-08-31,2025,1849.0,14.9,13.01,2.88,1.17,,,5,3,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-09-08,2025,1958.0,17.2,9.66,2.92,1.79,,,4,3,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-09-17,2025,2053.0,18.1,8.55,3.07,2.13,,,3,3,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-09-24,2025,2139.0,19.4,7.71,3.13,2.52,,,3,3,Extension monitoring
+Cayuga White,Veraison to Harvest,Finger Lakes,2025-10-06,2025,2238.0,20.9,7.11,3.21,2.95,,,3,2,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-07-01,2024,968.0,3.7,21.63,3.03,0.17,0.31,10.3,1,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-07-16,2024,1256.0,3.6,31.45,2.83,0.11,0.7,12.3,1,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,4.7,37.16,2.85,0.13,0.81,12.8,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,7.7,22.53,2.98,0.35,0.95,12.0,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,16.3,12.06,3.04,1.36,1.38,14.2,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,19.2,8.76,3.13,2.19,1.71,16.2,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2024-09-17,2024,2226.0,20.3,8.94,3.09,2.27,1.58,16.0,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-07-06,2025,980.0,5.1,27.96,3.04,0.18,0.29,,1,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-07-20,2025,1248.0,3.8,32.95,2.84,0.12,0.74,13.4,1,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-08-03,2025,1486.0,4.3,37.3,2.98,0.12,0.77,13.3,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-08-20,2025,1786.0,12.6,12.33,3.06,1.03,1.0,14.3,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-09-04,2025,1980.0,17.4,7.94,3.18,2.21,1.61,16.3,5,1,Extension monitoring
+Chardonnay,NYWGF,Finger Lakes,2025-09-17,2025,2134.0,20.2,5.69,3.42,3.56,1.58,16.1,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-07-01,2024,1013.0,3.6,19.12,2.88,0.19,0.44,10.2,1,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-07-18,2024,1321.0,3.4,25.97,3.02,0.13,0.88,12.5,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-07-30,2024,1523.0,4.5,29.77,2.92,0.15,0.98,12.5,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-08-13,2024,1765.0,9.2,23.23,2.92,0.4,1.3,13.1,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-08-26,2024,1957.0,15.1,14.18,3.14,1.07,1.34,13.3,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-09-09,2024,2163.0,18.6,8.77,3.41,2.13,1.98,15.6,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-09-16,2024,2269.0,19.5,6.61,3.58,2.94,1.82,13.9,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2024-09-23,2024,2381.0,19.5,5.32,3.81,3.67,1.82,13.6,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-07-07,2025,1005.0,4.0,22.02,3.0,0.18,,,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-07-24,2025,1302.0,4.1,27.73,2.89,0.15,,,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-08-07,2025,1543.0,4.4,31.93,2.86,0.14,,,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-08-19,2025,1766.0,9.5,20.57,3.0,0.46,,,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-09-08,2025,2013.0,16.1,10.83,3.3,1.49,1.3,13.8,5,1,Extension monitoring
+Chardonnay,NYWGF,Western NY,2025-09-22,2025,2200.0,18.8,8.09,3.39,2.33,1.71,15.1,5,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1875.0,16.5,12.16,2.95,1.44,,,3,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2024-09-02,2024,1975.0,17.6,11.02,3.06,1.61,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2024-09-07,2024,2044.0,19.6,8.72,3.12,2.32,,,4,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2024-09-16,2024,2158.0,20.9,7.86,3.15,2.74,,,3,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2258.0,23.0,6.65,3.24,3.5,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2025-08-27,2025,1836.0,15.4,14.3,2.87,1.11,,,4,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2025-09-05,2025,1948.0,19.1,10.2,2.99,1.9,,,5,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2025-09-15,2025,2056.0,20.8,8.4,3.1,2.53,,,3,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2025-09-22,2025,2140.0,21.9,7.54,3.19,2.93,,,3,3,Extension monitoring
+Chardonnay,Veraison to Harvest,Finger Lakes,2025-09-29,2025,2242.0,22.9,6.98,3.23,3.32,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2024-08-26,2024,2028.0,16.4,10.3,3.24,1.59,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2145.0,19.1,8.5,3.43,2.25,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2225.0,18.0,7.08,3.6,2.54,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2321.0,19.7,6.4,3.74,3.08,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1980.0,17.4,10.12,3.33,1.72,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Hudson Valley,2025-09-02,2025,2075.0,19.2,8.4,3.4,2.29,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2024-08-26,2024,1995.0,14.1,17.42,2.95,0.81,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2024-09-02,2024,2116.0,17.7,10.53,3.15,1.68,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2024-09-09,2024,2207.0,17.4,12.23,3.15,1.42,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2024-09-16,2024,2314.0,20.0,8.3,3.27,2.41,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2024-09-23,2024,2427.0,19.0,7.8,3.47,2.44,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-08-25,2025,1880.0,10.6,23.32,2.82,0.45,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-09-02,2025,1971.0,14.0,19.2,2.89,0.73,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-09-08,2025,2043.0,16.6,10.49,3.08,1.58,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-09-15,2025,2130.0,18.9,10.25,3.15,1.84,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-09-22,2025,2231.0,18.4,11.35,3.15,1.62,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Lake Erie,2025-09-29,2025,2328.0,22.7,5.51,3.47,4.12,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2024-08-26,2024,2007.0,15.8,14.14,3.06,1.12,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2024-09-02,2024,2128.0,18.2,11.52,3.2,1.58,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2024-09-09,2024,2217.0,19.8,10.49,3.25,1.89,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2024-09-16,2024,2311.0,20.9,9.4,3.27,2.22,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2024-09-23,2024,2413.0,21.8,7.95,3.42,2.74,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-08-25,2025,1984.0,15.4,12.65,3.18,1.22,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-09-02,2025,2094.0,17.4,10.3,3.13,1.69,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-09-08,2025,2178.0,19.0,8.61,3.25,2.2,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-09-15,2025,2272.0,20.0,8.2,3.27,2.43,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-09-22,2025,2366.0,20.5,7.4,3.35,2.77,,,2,2,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-09-29,2025,2476.0,20.9,7.16,3.4,2.92,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Long Island,2025-10-06,2025,2560.0,20.9,6.51,3.5,3.21,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,16.6,12.08,2.89,1.37,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,18.5,10.2,2.98,1.81,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,19.4,8.84,3.07,2.19,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,21.0,7.57,3.11,2.77,,,1,1,Extension monitoring
+Chardonnay,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,22.5,6.16,3.23,3.65,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1793.0,12.2,11.97,2.94,1.02,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-09-02,2024,1894.0,13.3,9.36,3.0,1.42,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-09-06,2024,1948.0,14.4,6.68,3.19,2.21,,,3,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-09-16,2024,2066.0,16.2,5.02,3.24,3.24,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2160.0,16.8,3.85,3.4,4.42,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2024-09-30,2024,2242.0,17.1,4.8,3.37,3.58,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-08-25,2025,1730.0,10.2,18.75,2.65,0.54,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-09-05,2025,1843.0,12.9,10.39,2.91,1.33,,,4,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-09-15,2025,1951.0,15.7,6.3,3.12,2.52,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-09-22,2025,2030.0,16.2,4.92,3.22,3.28,,,2,2,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-09-29,2025,2135.0,16.9,4.21,3.34,4.01,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Finger Lakes,2025-10-06,2025,2209.0,17.8,5.18,3.35,3.44,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,12.1,15.92,2.85,0.76,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,14.4,12.65,3.11,1.14,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,16.4,12.14,3.19,1.35,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2024-09-16,2024,2286.0,17.6,8.9,3.17,1.98,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2024-09-23,2024,2398.0,18.6,9.8,3.35,1.9,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,9.3,22.82,2.72,0.41,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,11.9,16.2,2.93,0.73,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,12.8,13.19,3.06,0.97,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,14.3,11.79,3.2,1.21,,,1,1,Extension monitoring
+Concord,Veraison to Harvest,Lake Erie,2025-09-22,2025,2212.0,16.1,10.08,3.18,1.6,,,1,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-07-01,2024,1021.0,3.5,25.99,2.82,0.13,0.92,12.7,1,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-07-18,2024,1330.0,4.3,33.29,2.91,0.13,1.48,14.8,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-07-30,2024,1534.0,5.2,35.52,2.84,0.15,1.58,15.1,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-08-13,2024,1778.0,8.5,33.0,2.75,0.26,1.98,15.8,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-08-26,2024,1971.0,13.0,16.51,3.03,0.79,2.18,15.6,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-09-09,2024,2180.0,17.4,11.46,3.16,1.52,2.36,16.3,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2024-09-12,2024,2221.0,16.0,9.44,3.19,1.7,,,10,1,Extension monitoring
+Elvira,NYWGF,Western NY,2025-07-07,2025,1011.0,4.0,30.07,2.92,0.13,,,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2025-07-24,2025,1310.0,4.4,33.6,2.8,0.13,,,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2025-08-07,2025,1552.0,5.7,37.21,2.78,0.15,,,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2025-08-19,2025,1776.0,9.1,24.64,2.93,0.37,,,5,1,Extension monitoring
+Elvira,NYWGF,Western NY,2025-09-08,2025,2024.0,12.4,13.98,3.06,0.89,1.64,15.2,5,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,13.7,15.2,2.87,0.9,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,16.0,11.09,3.1,1.44,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,16.7,9.71,3.16,1.72,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,10.9,21.91,2.73,0.5,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,13.5,13.2,2.9,1.02,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,13.9,14.87,2.95,0.93,,,1,1,Extension monitoring
+Elvira,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,16.5,12.22,3.09,1.35,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2024-08-26,2024,1940.0,22.4,13.86,3.05,1.62,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2024-09-02,2024,2042.0,24.6,18.08,3.14,1.36,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2025-08-25,2025,1816.0,15.2,19.9,2.76,0.76,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2025-09-05,2025,1954.0,18.6,17.18,2.9,1.08,,,2,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2025-09-15,2025,2072.0,19.8,13.66,2.96,1.45,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2025-09-22,2025,2143.0,23.4,14.09,3.12,1.66,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Champlain Valley,2025-09-29,2025,2238.0,20.8,12.31,3.11,1.69,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1912.0,15.0,20.68,2.89,0.73,,,1,1,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2058.0,18.4,17.01,2.99,1.08,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2162.0,18.8,16.11,3.06,1.16,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2245.0,20.6,14.65,3.1,1.42,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2024-09-23,2024,2353.0,22.1,14.82,3.13,1.49,,,3,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-08-29,2025,1848.0,19.9,18.34,3.03,1.1,,,2,1,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-09-01,2025,1980.0,20.8,16.43,3.12,1.27,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-09-08,2025,2066.0,22.8,15.08,3.2,1.52,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2143.0,23.8,13.78,3.22,1.73,,,2,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-09-26,2025,2249.0,23.0,12.86,3.29,1.78,,,3,2,Extension monitoring
+Frontenac,Veraison to Harvest,Hudson Valley,2025-10-13,2025,2323.0,21.7,13.08,3.34,1.66,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2024-08-26,2024,1940.0,22.4,16.58,2.99,1.35,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2024-09-02,2024,2042.0,24.0,16.67,3.08,1.44,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2025-08-25,2025,1816.0,13.7,20.51,2.74,0.67,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2025-09-05,2025,1954.0,15.7,17.06,2.86,0.92,,,2,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2025-09-15,2025,2072.0,17.3,13.99,2.86,1.24,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2025-09-22,2025,2143.0,19.7,13.2,3.06,1.49,,,1,1,Extension monitoring
+Frontenac Gris,Veraison to Harvest,Champlain Valley,2025-09-29,2025,2238.0,18.0,11.23,3.05,1.6,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-08-26,2024,2028.0,13.4,9.38,3.16,1.43,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2145.0,14.6,8.96,3.33,1.63,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2225.0,17.2,7.38,3.44,2.33,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2321.0,18.0,6.5,3.51,2.77,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-09-23,2024,2416.0,19.6,6.4,3.57,3.06,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2503.0,20.6,5.97,3.6,3.45,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1980.0,15.4,11.77,3.17,1.31,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2025-09-02,2025,2075.0,17.5,10.8,3.24,1.62,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2025-09-08,2025,2157.0,19.2,7.71,3.36,2.49,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2244.0,20.0,8.48,3.27,2.36,,,1,1,Extension monitoring
+Gamay Noir,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2328.0,22.7,7.1,3.46,3.2,,,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-06-30,2024,925.0,3.4,19.57,3.04,0.17,0.21,8.8,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-07-16,2024,1256.0,3.6,32.96,2.8,0.11,0.63,11.2,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,5.9,38.32,2.81,0.15,0.75,12.4,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,13.9,14.8,2.96,0.96,1.24,15.0,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,18.0,8.48,3.14,2.18,1.61,14.4,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,20.1,6.52,3.28,3.11,1.71,15.0,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2024-09-20,2024,2270.0,21.1,6.65,3.34,3.18,1.87,15.7,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-07-06,2025,946.0,5.2,33.44,3.0,0.16,0.24,,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-07-20,2025,1208.0,3.6,29.96,2.86,0.12,0.72,13.0,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-07-30,2025,1387.0,3.8,36.48,2.99,0.1,0.81,13.5,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-08-19,2025,1717.0,13.4,12.28,3.1,1.09,1.26,15.4,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-09-04,2025,1916.0,18.5,6.2,3.36,3.02,1.79,15.4,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-09-18,2025,2077.0,21.2,3.88,3.72,5.5,1.91,15.6,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Finger Lakes,2025-09-29,2025,2216.0,22.1,4.47,3.75,4.95,1.81,14.9,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-07-01,2024,1013.0,3.4,17.77,2.84,0.19,0.28,9.0,1,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-07-18,2024,1321.0,3.5,24.42,3.04,0.14,0.76,12.1,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-07-30,2024,1523.0,4.2,27.65,2.95,0.15,0.86,12.5,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-08-13,2024,1765.0,9.1,18.77,2.98,0.5,1.18,12.7,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-08-26,2024,1957.0,16.2,8.54,3.42,1.96,1.72,14.2,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-09-09,2024,2163.0,20.0,5.35,3.82,3.78,1.86,14.6,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2024-09-16,2024,2269.0,21.3,4.07,3.94,5.28,1.64,12.7,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-07-07,2025,1005.0,4.2,22.21,2.95,0.19,,,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-07-24,2025,1302.0,3.8,24.93,2.92,0.15,,,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-08-07,2025,1543.0,4.0,26.57,2.93,0.15,,,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-08-19,2025,1766.0,10.9,14.45,3.16,0.75,,,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-09-08,2025,2013.0,18.7,6.37,3.61,2.94,1.45,14.3,5,1,Extension monitoring
+Gewurztraminer,NYWGF,Western NY,2025-09-22,2025,2200.0,20.2,5.52,3.67,3.66,1.34,13.9,5,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2024-08-26,2024,1995.0,16.6,9.32,3.18,1.78,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2024-09-02,2024,2116.0,18.2,8.47,3.33,2.15,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2024-09-09,2024,2207.0,20.5,5.94,3.49,3.45,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2024-09-16,2024,2314.0,21.6,6.0,3.48,3.6,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-08-25,2025,1880.0,13.7,13.27,2.98,1.03,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-09-02,2025,1971.0,16.8,9.8,3.12,1.71,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-09-08,2025,2043.0,17.8,8.67,3.24,2.05,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-09-15,2025,2130.0,19.4,6.75,3.26,2.87,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-09-22,2025,2231.0,20.9,6.6,3.34,3.17,,,1,1,Extension monitoring
+Gewurztraminer,Veraison to Harvest,Lake Erie,2025-09-29,2025,2328.0,21.7,6.54,3.5,3.32,,,1,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1912.0,18.8,13.24,3.14,1.42,,,1,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2024-09-05,2024,2055.0,21.3,11.74,3.32,1.82,,,2,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2355.0,25.0,11.1,3.34,2.25,,,1,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2025-08-29,2025,1848.0,21.9,12.26,3.26,1.81,,,2,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2025-09-08,2025,1967.0,23.8,10.13,3.44,2.35,,,1,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2046.0,25.2,10.09,3.52,2.5,,,1,1,Extension monitoring
+Itasca,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2119.0,28.5,9.89,3.5,2.88,,,1,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-07-01,2024,1021.0,3.6,27.17,2.71,0.13,1.08,13.6,1,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-07-18,2024,1330.0,3.8,33.15,2.87,0.12,1.9,16.0,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-07-30,2024,1534.0,5.4,37.84,2.82,0.14,2.12,16.3,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-08-13,2024,1778.0,7.3,22.77,2.8,0.32,2.44,15.5,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-08-26,2024,1971.0,12.9,16.08,2.96,0.81,2.24,13.7,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-09-09,2024,2180.0,17.0,9.12,3.26,1.87,2.58,15.0,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-09-16,2024,2286.0,17.3,8.07,3.14,2.2,2.38,16.7,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-09-23,2024,2398.0,18.6,8.3,3.23,2.25,2.18,16.1,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2024-09-30,2024,2504.0,18.1,7.9,3.28,2.29,2.18,16.2,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-07-07,2025,1011.0,3.9,31.06,2.86,0.12,,,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-07-24,2025,1310.0,4.4,32.97,2.71,0.13,,,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-08-07,2025,1552.0,6.0,32.77,2.78,0.18,,,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-08-19,2025,1776.0,10.6,16.14,3.02,0.65,,,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-09-08,2025,2024.0,15.4,9.32,3.14,1.66,2.26,16.3,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-09-22,2025,2212.0,19.9,7.43,3.23,2.7,2.08,15.7,5,1,Extension monitoring
+Ives,NYWGF,Western NY,2025-10-06,2025,2395.0,17.4,7.45,3.23,2.34,1.85,15.4,5,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2024-08-26,2024,1940.0,19.0,20.38,2.92,0.93,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2024-09-02,2024,2042.0,21.1,15.42,2.97,1.37,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2025-08-25,2025,1816.0,19.4,18.41,2.83,1.05,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2025-09-05,2025,1954.0,22.0,16.42,2.92,1.34,,,2,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2025-09-15,2025,2072.0,25.2,14.48,2.98,1.74,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Champlain Valley,2025-09-22,2025,2143.0,25.7,13.03,3.16,1.97,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1854.0,19.5,16.26,2.83,1.2,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2024-08-29,2024,1935.0,17.9,15.1,2.96,1.2,,,2,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2024-09-06,2024,2046.0,18.4,14.48,3.01,1.27,,,3,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2152.0,20.5,13.62,3.02,1.5,,,2,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2355.0,20.7,13.52,3.15,1.53,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1772.0,18.7,18.64,2.76,1.0,,,1,1,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2025-08-30,2025,1851.0,20.7,17.85,2.88,1.16,,,3,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2025-09-08,2025,1948.0,22.4,15.45,2.96,1.44,,,2,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2028.0,23.4,15.8,2.96,1.48,,,2,2,Extension monitoring
+La Crescent,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2119.0,26.6,14.13,3.16,1.88,,,1,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-07-01,2024,968.0,3.9,22.38,2.98,0.17,0.3,9.6,1,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-07-16,2024,1256.0,4.0,33.7,2.75,0.12,0.86,13.0,1,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,6.3,37.82,2.78,0.17,0.96,12.7,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,9.5,19.8,2.9,0.53,1.42,12.1,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,16.8,10.68,3.08,1.58,1.76,14.3,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,19.0,8.86,3.08,2.15,1.86,14.3,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2024-09-24,2024,2323.0,20.8,7.71,3.13,2.71,2.15,16.8,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-07-06,2025,980.0,5.5,32.06,2.98,0.17,0.25,,1,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-07-20,2025,1248.0,4.2,34.72,2.74,0.12,0.79,13.4,1,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-08-03,2025,1486.0,5.8,41.71,2.89,0.14,0.8,13.3,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-08-20,2025,1786.0,13.3,16.01,2.92,0.83,1.21,14.0,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-09-04,2025,1980.0,17.9,7.91,3.05,2.28,1.9,15.6,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-09-17,2025,2134.0,20.2,6.45,3.16,3.13,1.84,15.4,5,1,Extension monitoring
+Lemberger,NYWGF,Finger Lakes,2025-09-29,2025,2290.0,21.8,6.08,3.17,3.59,1.96,15.8,5,1,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1884.0,16.2,12.55,2.92,1.38,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-09-02,2024,1987.0,14.1,12.94,2.97,1.09,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-09-06,2024,2048.0,19.7,9.16,3.04,2.23,,,3,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-09-16,2024,2172.0,20.2,8.18,3.1,2.54,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2272.0,21.3,7.0,3.16,3.06,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2024-09-30,2024,2362.0,22.5,5.89,3.18,3.82,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-08-25,2025,1777.0,14.6,18.2,2.74,0.8,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-08-29,2025,1848.0,17.3,13.52,2.78,1.29,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-09-06,2025,1948.0,19.6,10.84,2.98,1.85,,,3,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-09-15,2025,2046.0,21.3,8.96,3.04,2.41,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-09-22,2025,2129.0,22.7,8.22,3.12,2.79,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-09-29,2025,2226.0,23.5,7.4,3.17,3.18,,,2,2,Extension monitoring
+Lemberger,Veraison to Harvest,Finger Lakes,2025-10-09,2025,2352.0,24.2,7.68,3.22,3.3,,,2,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,15.4,13.1,3.1,1.18,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,16.5,11.43,3.18,1.44,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,18.7,9.28,3.25,2.02,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-09-16,2024,2286.0,19.3,8.7,3.24,2.22,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-09-23,2024,2398.0,18.7,8.3,3.43,2.25,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2024-09-30,2024,2504.0,19.5,7.18,3.43,2.72,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,14.7,14.47,2.89,1.02,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,16.9,12.8,2.96,1.32,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,19.2,11.02,3.06,1.74,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,18.7,10.71,3.11,1.75,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-09-22,2025,2212.0,20.5,7.63,3.23,2.69,,,1,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-10-02,2025,2352.0,21.5,8.72,3.2,2.47,,,2,1,Extension monitoring
+Lemberger,Veraison to Harvest,Lake Erie,2025-10-13,2025,2453.0,20.6,7.69,3.28,2.68,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1912.0,12.8,11.02,3.01,1.16,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2024-09-05,2024,2055.0,14.4,8.07,3.22,1.78,,,2,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2186.0,15.6,6.62,3.34,2.36,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2024-09-23,2024,2277.0,17.7,5.5,3.47,3.22,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2355.0,20.1,5.94,3.48,3.38,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2025-08-29,2025,1848.0,15.2,11.0,3.06,1.41,,,2,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2025-09-08,2025,1967.0,17.7,8.42,3.28,2.1,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2046.0,19.4,7.44,3.27,2.61,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2119.0,19.2,6.63,3.44,2.9,,,1,1,Extension monitoring
+Louise Swenson,Veraison to Harvest,Hudson Valley,2025-09-29,2025,2212.0,18.5,6.45,3.54,2.87,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2024-08-26,2024,2005.0,14.3,18.36,3.01,0.78,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2024-09-02,2024,2125.0,17.1,12.73,3.17,1.34,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2024-09-09,2024,2213.0,18.4,10.72,3.31,1.72,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2024-09-16,2024,2307.0,19.9,8.7,3.39,2.29,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2024-09-26,2024,2454.0,20.9,8.14,3.46,2.58,,,2,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-08-25,2025,1984.0,15.3,16.36,3.04,0.94,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-09-02,2025,2093.0,18.2,11.6,3.06,1.57,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-09-08,2025,2177.0,19.1,9.18,3.23,2.08,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-09-15,2025,2272.0,20.5,7.78,3.29,2.63,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-09-22,2025,2365.0,22.2,6.71,3.44,3.31,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-09-29,2025,2476.0,21.9,6.17,3.44,3.55,,,1,1,Extension monitoring
+Malbec,Veraison to Harvest,Long Island,2025-10-06,2025,2560.0,22.3,6.0,3.58,3.72,,,1,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-06-30,2024,924.0,3.4,22.57,2.98,0.15,0.41,11.1,1,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-07-15,2024,1196.0,4.0,37.92,2.77,0.11,0.58,9.9,1,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-07-29,2024,1424.0,6.5,41.27,2.79,0.16,0.61,12.8,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-08-12,2024,1660.0,13.8,13.93,3.17,1.0,0.96,13.9,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-08-28,2024,1891.0,17.1,12.39,3.05,1.39,1.1,14.9,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-09-09,2024,2039.0,20.2,10.32,3.12,1.97,1.27,15.1,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2024-09-20,2024,2193.0,22.9,10.21,3.24,2.25,1.35,14.2,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-07-06,2025,944.0,4.1,38.53,2.96,0.11,0.38,,1,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-07-20,2025,1205.0,3.8,37.69,2.78,0.1,0.53,12.0,1,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-07-30,2025,1384.0,4.6,42.86,2.94,0.11,0.74,12.9,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-08-19,2025,1712.0,17.5,17.87,2.99,0.98,0.99,13.2,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-09-04,2025,1909.0,21.2,7.79,3.32,2.73,1.1,13.1,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-09-17,2025,2056.0,23.5,6.9,3.53,3.42,1.11,13.5,5,1,Extension monitoring
+Marechal Foch,NYWGF,Finger Lakes,2025-09-29,2025,2207.0,23.1,7.33,3.41,3.16,1.17,13.4,5,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2024-08-26,2024,2023.0,18.7,11.88,3.06,1.57,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2138.0,20.4,10.41,3.28,1.96,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2213.0,2.3,9.36,3.38,0.25,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2308.0,23.2,9.2,3.31,2.52,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1992.0,20.1,12.64,3.15,1.59,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2025-09-02,2025,2087.0,24.7,10.5,3.22,2.35,,,1,1,Extension monitoring
+Marechal Foch,Veraison to Harvest,Hudson Valley,2025-09-08,2025,2167.0,24.1,8.87,3.38,2.72,,,1,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-07-01,2024,938.0,3.2,26.05,2.94,0.12,0.55,12.2,1,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-07-16,2024,1217.0,4.3,38.55,2.71,0.11,0.64,10.8,1,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-07-31,2024,1465.0,14.1,24.52,2.92,0.58,0.99,12.2,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-08-12,2024,1662.0,17.1,13.52,3.19,1.27,1.1,13.4,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-08-28,2024,1895.0,20.7,13.65,3.09,1.52,1.23,14.7,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2024-09-09,2024,2044.0,22.5,11.03,3.18,2.04,1.31,14.5,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2025-07-06,2025,946.0,4.1,34.57,2.96,0.12,0.49,,1,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2025-07-20,2025,1208.0,4.2,37.13,2.77,0.11,0.61,12.4,1,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2025-07-30,2025,1387.0,9.4,33.05,3.04,0.28,0.71,12.0,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2025-08-19,2025,1717.0,22.5,16.67,3.08,1.36,1.14,13.8,5,1,Extension monitoring
+Marquette,NYWGF,Finger Lakes,2025-09-04,2025,1916.0,25.3,11.25,3.32,2.25,1.04,13.1,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2024-07-01,2024,1008.0,3.1,19.85,2.87,0.16,0.52,10.7,1,1,Extension monitoring
+Marquette,NYWGF,Western NY,2024-07-18,2024,1316.0,4.0,30.24,2.98,0.13,0.74,12.0,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2024-07-30,2024,1518.0,11.9,28.3,2.95,0.42,1.26,12.4,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2024-08-13,2024,1762.0,15.7,16.89,3.08,0.94,1.66,12.8,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2024-08-26,2024,1954.0,19.8,13.91,3.32,1.44,1.26,12.1,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2025-07-07,2025,998.0,3.6,25.96,2.93,0.14,,,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2025-07-24,2025,1295.0,4.7,31.97,2.86,0.15,,,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2025-08-07,2025,1535.0,13.5,21.75,3.15,0.62,,,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2025-08-19,2025,1757.0,20.1,13.58,3.36,1.49,,,5,1,Extension monitoring
+Marquette,NYWGF,Western NY,2025-09-08,2025,2002.0,21.6,10.34,3.61,2.1,1.35,13.5,5,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2024-08-26,2024,1940.0,18.5,17.36,2.83,1.07,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2024-09-02,2024,2042.0,21.9,12.26,2.95,1.79,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2025-08-25,2025,1816.0,16.5,18.21,2.77,0.91,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2025-09-05,2025,1954.0,19.5,15.39,2.88,1.27,,,2,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2025-09-15,2025,2072.0,21.4,12.56,2.98,1.7,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Champlain Valley,2025-09-22,2025,2143.0,23.4,11.34,3.18,2.06,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1797.0,18.2,14.78,2.92,1.23,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1890.0,21.1,13.96,2.99,1.51,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2024-09-05,2024,1938.0,21.2,12.92,2.93,1.64,,,2,1,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2024-09-09,2024,2034.0,23.2,6.48,3.01,9.62,,,2,2,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2025-08-25,2025,1741.0,21.4,19.03,2.79,1.12,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2025-09-01,2025,1845.0,23.7,16.33,2.87,1.45,,,3,2,Extension monitoring
+Marquette,Veraison to Harvest,Finger Lakes,2025-09-02,2025,1917.0,25.0,15.4,2.94,1.62,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1854.0,17.5,16.7,2.74,1.05,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-08-29,2024,1935.0,18.3,14.72,2.99,1.25,,,2,2,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-09-04,2024,2048.0,20.6,12.51,3.1,1.66,,,3,3,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2213.0,22.5,10.61,3.39,2.12,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-09-11,2024,2147.0,22.3,11.5,3.21,1.95,,,3,3,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2355.0,23.2,9.13,3.48,2.54,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1772.0,20.1,21.45,2.69,0.94,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-08-30,2025,1851.0,21.5,16.11,2.95,1.35,,,3,2,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-09-03,2025,1963.0,22.0,13.67,3.1,1.62,,,3,3,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-09-13,2025,2056.0,23.5,12.54,3.09,1.9,,,4,3,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2143.0,24.6,10.94,3.36,2.26,,,2,2,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-10-02,2025,2246.0,26.5,9.29,3.46,2.86,,,2,1,Extension monitoring
+Marquette,Veraison to Harvest,Hudson Valley,2025-10-13,2025,2323.0,27.4,9.7,3.48,2.82,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Lake Erie,2024-08-26,2024,1969.0,19.3,16.94,3.05,1.14,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Lake Erie,2024-09-02,2024,2088.0,19.4,17.57,3.18,1.1,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Lake Erie,2025-08-25,2025,1854.0,20.1,17.35,2.98,1.16,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Lake Erie,2025-09-02,2025,1944.0,21.5,22.4,3.02,0.96,,,1,1,Extension monitoring
+Marquette,Veraison to Harvest,Lake Erie,2025-09-08,2025,2014.0,22.8,14.61,3.12,1.56,,,1,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-07-01,2024,968.0,3.7,21.63,3.01,0.17,0.21,8.8,1,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-07-16,2024,1256.0,3.8,32.88,2.74,0.12,0.69,11.9,1,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-07-31,2024,1512.0,4.5,38.38,2.74,0.12,0.7,12.2,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-08-12,2024,1716.0,8.8,22.87,2.88,0.39,0.85,12.0,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-08-28,2024,1958.0,15.6,11.26,3.13,1.39,1.32,13.6,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-09-09,2024,2111.0,17.9,8.06,3.19,2.23,1.59,14.2,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2024-09-24,2024,2323.0,19.4,5.67,3.26,3.41,1.64,15.5,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-07-06,2025,980.0,4.7,27.76,3.05,0.17,0.17,,1,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-07-20,2025,1248.0,3.8,33.7,2.75,0.11,0.65,12.9,1,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-08-03,2025,1486.0,4.6,40.99,2.9,0.11,0.66,12.3,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-08-20,2025,1786.0,10.7,20.82,2.87,0.51,0.96,13.1,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-09-04,2025,1980.0,15.5,7.21,3.15,2.18,1.27,14.3,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-09-17,2025,2134.0,19.0,5.45,3.33,3.53,1.61,14.8,5,1,Extension monitoring
+Merlot,NYWGF,Finger Lakes,2025-09-29,2025,2290.0,21.4,5.82,3.33,3.7,1.63,14.7,5,1,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2024-08-26,2024,2005.0,15.4,10.57,3.2,1.46,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2024-09-02,2024,2125.0,17.9,8.07,3.39,2.26,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2024-09-09,2024,2213.0,14.2,6.7,3.5,2.19,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2024-09-16,2024,2307.0,20.4,5.75,3.58,3.58,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2024-09-26,2024,2454.0,21.1,5.62,3.67,3.78,,,4,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-08-25,2025,1984.0,15.6,11.23,3.15,1.39,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-09-02,2025,2093.0,18.2,7.75,3.26,2.36,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-09-08,2025,2177.0,19.4,6.34,3.4,3.06,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-09-15,2025,2272.0,20.2,5.92,3.45,3.41,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-09-22,2025,2365.0,21.3,5.64,3.54,3.78,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-09-29,2025,2476.0,21.5,5.62,3.54,3.83,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-10-06,2025,2560.0,22.0,4.86,3.65,4.56,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Long Island,2025-10-13,2025,2628.0,22.0,5.72,3.54,3.86,,,2,2,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,16.0,13.77,2.77,1.16,,,1,1,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,18.2,11.0,2.92,1.65,,,1,1,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,18.8,9.6,2.97,1.96,,,1,1,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,21.4,7.67,3.09,2.79,,,1,1,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,23.6,7.22,3.09,3.27,,,1,1,Extension monitoring
+Merlot,Veraison to Harvest,Niagara,2025-10-02,2025,2350.0,22.8,6.92,3.16,3.3,,,2,1,Extension monitoring
+NY06,NYWGF,Finger Lakes,2025-07-21,2025,1209.0,4.2,42.73,2.88,0.1,0.36,9.9,6,1,Extension monitoring
+NY06,NYWGF,Finger Lakes,2025-08-19,2025,1705.0,5.9,49.18,3.0,0.12,0.39,10.8,5,1,Extension monitoring
+NY06,NYWGF,Finger Lakes,2025-09-04,2025,1906.0,11.4,15.67,3.04,0.75,0.5,10.6,5,1,Extension monitoring
+NY06,NYWGF,Finger Lakes,2025-09-18,2025,2066.0,13.6,8.99,3.08,1.52,0.72,11.5,5,1,Extension monitoring
+NY06,NYWGF,Finger Lakes,2025-09-29,2025,2206.0,14.3,6.55,3.07,2.25,0.7,11.7,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-07-01,2024,1021.0,3.4,22.03,2.77,0.15,1.58,15.2,1,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-07-18,2024,1330.0,3.7,28.99,2.92,0.13,2.14,16.6,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-07-30,2024,1534.0,5.1,34.39,2.82,0.15,2.7,17.8,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-08-13,2024,1778.0,8.1,25.58,2.78,0.32,2.76,16.0,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-08-26,2024,1971.0,14.0,13.04,3.08,1.08,3.2,17.9,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-09-09,2024,2180.0,17.8,7.64,3.34,2.33,3.72,16.2,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2024-09-12,2024,2221.0,15.8,6.96,3.24,2.27,,,10,1,Extension monitoring
+Niagara,NYWGF,Western NY,2025-07-07,2025,1011.0,4.4,27.52,2.88,0.16,,,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2025-07-24,2025,1310.0,4.7,30.93,2.76,0.15,,,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2025-08-07,2025,1552.0,6.3,29.86,2.81,0.21,,,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2025-08-19,2025,1776.0,10.0,16.7,2.97,0.6,,,5,1,Extension monitoring
+Niagara,NYWGF,Western NY,2025-09-08,2025,2024.0,12.8,8.13,3.1,1.57,3.15,18.9,5,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,14.4,10.7,2.98,1.35,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,16.4,7.37,3.25,2.23,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,17.5,7.81,3.29,2.24,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,11.9,11.33,2.85,1.05,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,12.3,8.7,2.93,1.41,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,13.1,7.63,3.02,1.72,,,1,1,Extension monitoring
+Niagara,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,16.4,7.31,3.15,2.24,,,1,1,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1867.0,16.2,10.91,2.99,1.49,,,2,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-08-30,2024,1957.0,17.2,11.11,3.06,1.69,,,3,3,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-09-06,2024,2044.0,18.7,9.09,3.16,2.16,,,3,3,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-09-13,2024,2135.0,20.8,7.67,3.21,2.88,,,3,3,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-09-19,2024,2224.0,19.8,7.65,3.18,2.68,,,2,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2306.0,19.3,7.8,3.25,2.47,,,1,1,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2025-08-27,2025,1839.0,16.3,11.6,2.92,1.43,,,3,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2025-09-06,2025,1945.0,18.9,11.84,2.99,1.77,,,3,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2025-09-15,2025,2050.0,21.0,7.93,3.19,2.64,,,2,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2025-09-22,2025,2132.0,22.2,6.84,3.28,3.24,,,2,2,Extension monitoring
+Pinot Noir,Veraison to Harvest,Finger Lakes,2025-09-29,2025,2233.0,23.4,7.46,3.33,3.14,,,1,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-06-30,2024,925.0,3.4,19.17,3.06,0.18,0.21,8.9,1,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-07-16,2024,1217.0,3.8,35.99,2.76,0.11,0.56,11.6,1,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-07-31,2024,1465.0,5.6,43.26,2.72,0.13,0.6,12.0,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-08-12,2024,1662.0,12.0,13.71,3.12,0.88,0.96,12.8,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-08-28,2024,1895.0,15.9,10.38,3.07,1.55,1.19,14.3,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-09-09,2024,2044.0,18.9,6.46,3.24,2.93,1.43,14.5,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2024-09-20,2024,2198.0,20.8,5.48,3.29,3.8,1.37,14.3,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-07-06,2025,946.0,4.7,31.31,3.01,0.15,0.26,,1,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-07-20,2025,1208.0,3.5,32.19,2.83,0.11,0.64,12.5,1,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-07-30,2025,1387.0,4.0,40.29,2.94,0.1,0.97,13.9,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-08-19,2025,1717.0,13.7,13.35,3.1,1.03,1.09,13.5,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-09-04,2025,1916.0,17.2,5.66,3.46,3.08,1.38,14.6,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-09-18,2025,2077.0,20.3,4.25,3.72,4.8,1.39,14.2,5,1,Extension monitoring
+Pinot gris,NYWGF,Finger Lakes,2025-09-29,2025,2216.0,21.3,5.68,3.41,3.79,1.53,14.5,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-07-01,2024,1013.0,3.5,19.47,2.86,0.18,0.3,9.5,1,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-07-18,2024,1321.0,3.4,25.74,3.03,0.13,0.74,12.0,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-07-30,2024,1523.0,4.8,32.06,2.9,0.15,0.82,12.0,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-08-13,2024,1765.0,11.2,19.27,2.99,0.59,1.3,12.5,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-08-26,2024,1957.0,15.5,9.43,3.39,1.66,1.46,12.9,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-09-09,2024,2163.0,19.8,5.57,3.74,3.64,1.54,12.7,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2024-09-16,2024,2269.0,21.8,5.21,3.81,4.18,1.6,13.7,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-07-07,2025,1005.0,4.2,23.39,2.96,0.18,,,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-07-24,2025,1302.0,4.0,27.39,2.89,0.15,,,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-08-07,2025,1543.0,5.0,31.64,2.86,0.16,,,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-08-19,2025,1766.0,14.3,13.32,3.22,1.07,,,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-09-08,2025,2013.0,17.8,7.44,3.46,2.4,1.43,14.1,5,1,Extension monitoring
+Pinot gris,NYWGF,Western NY,2025-09-22,2025,2200.0,21.5,4.91,3.66,4.4,1.43,14.2,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-07-20,2025,1205.0,3.6,31.51,2.77,0.11,0.67,13.0,1,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-07-30,2025,1384.0,3.8,34.9,2.93,0.11,0.96,14.2,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-08-19,2025,1712.0,10.2,23.14,2.91,0.45,1.08,14.6,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-09-04,2025,1909.0,16.9,9.34,3.11,1.81,1.53,16.0,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-09-17,2025,2056.0,18.3,7.48,3.16,2.46,1.54,15.6,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-09-29,2025,2207.0,18.7,7.61,3.13,2.47,1.75,16.3,5,1,Extension monitoring
+Riesling,NYWGF,Finger Lakes,2025-10-16,2025,2343.0,19.7,6.98,3.14,2.82,1.58,15.9,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-07-01,2024,1021.0,3.4,17.44,2.84,0.19,0.26,8.6,1,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-07-18,2024,1330.0,3.3,24.41,2.98,0.13,0.76,11.9,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-07-30,2024,1534.0,4.2,30.21,2.88,0.14,0.98,13.1,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-08-13,2024,1778.0,5.2,28.46,2.77,0.18,1.12,13.3,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-08-26,2024,1971.0,11.2,19.2,2.97,0.59,1.4,12.8,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-09-09,2024,2180.0,15.2,12.89,3.21,1.19,1.84,15.3,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-09-16,2024,2286.0,17.9,8.45,3.33,2.12,1.7,14.6,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-09-23,2024,2398.0,17.7,6.71,3.4,2.65,1.76,14.5,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2024-09-30,2024,2504.0,18.3,6.75,3.49,2.73,1.8,14.3,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-07-07,2025,1011.0,3.9,22.4,2.94,0.18,,,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-07-24,2025,1310.0,3.7,26.12,2.8,0.14,,,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-08-07,2025,1552.0,4.1,27.94,2.86,0.15,,,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-08-19,2025,1776.0,5.4,25.05,2.87,0.21,,,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-09-08,2025,2024.0,13.4,13.13,3.2,1.02,1.23,13.8,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-09-22,2025,2212.0,12.5,10.91,3.17,1.15,1.3,13.9,5,1,Extension monitoring
+Riesling,NYWGF,Western NY,2025-10-06,2025,2395.0,16.8,6.85,3.63,2.45,1.54,14.5,5,1,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1759.0,12.4,19.73,2.74,0.62,,,2,2,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-08-28,2024,1866.0,14.1,17.11,2.76,0.84,,,7,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-09-04,2024,1957.0,16.3,14.22,2.86,1.16,,,6,6,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-09-09,2024,2039.0,17.4,12.37,2.88,1.42,,,8,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-09-20,2024,2147.0,18.3,9.77,2.95,1.9,,,7,6,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-09-25,2024,2249.0,18.3,9.15,3.02,2.03,,,7,6,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2024-09-30,2024,2350.0,18.5,7.76,3.02,2.4,,,4,4,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-08-25,2025,1692.0,10.9,27.64,2.56,0.4,,,2,2,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-08-29,2025,1774.0,12.1,25.18,2.64,0.48,,,4,4,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-08-31,2025,1843.0,14.0,18.66,2.72,0.76,,,8,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-09-10,2025,1944.0,16.5,14.78,2.77,1.13,,,11,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-09-19,2025,2054.0,17.8,11.68,2.86,1.54,,,8,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-09-29,2025,2147.0,18.8,10.22,2.91,1.84,,,8,7,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-10-03,2025,2256.0,18.7,9.04,2.96,2.08,,,8,5,Extension monitoring
+Riesling,Veraison to Harvest,Finger Lakes,2025-10-09,2025,2336.0,20.7,8.46,2.97,2.45,,,4,3,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-08-26,2024,2028.0,14.3,14.0,2.92,1.02,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-09-02,2024,2145.0,7.4,8.89,3.22,0.83,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-09-09,2024,2225.0,18.1,9.2,3.15,1.97,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-09-16,2024,2321.0,19.2,6.9,3.3,2.78,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-09-23,2024,2416.0,19.2,6.5,3.36,2.95,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2024-09-30,2024,2503.0,19.1,6.57,3.32,2.91,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2025-08-25,2025,1980.0,14.7,16.11,2.93,0.91,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2025-09-02,2025,2075.0,17.0,12.8,2.9,1.33,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2025-09-08,2025,2157.0,18.5,8.89,3.15,2.08,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2244.0,20.1,8.86,3.04,2.27,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2328.0,20.8,7.28,3.25,2.86,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,11.1,20.34,2.78,0.55,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,15.2,13.76,3.0,1.1,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,15.7,12.87,3.03,1.22,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-09-16,2024,2286.0,17.6,10.8,3.04,1.63,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-09-23,2024,2398.0,18.3,8.7,3.24,2.1,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2024-09-30,2024,2504.0,17.9,7.66,3.21,2.34,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,7.4,25.73,2.71,0.29,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,10.5,22.0,2.78,0.48,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,11.6,18.25,2.89,0.64,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,14.7,14.99,3.01,0.98,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-09-22,2025,2212.0,16.7,10.97,3.12,1.52,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Lake Erie,2025-10-02,2025,2352.0,17.5,9.96,3.3,1.76,,,2,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,13.5,20.06,2.71,0.67,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,15.2,16.0,2.82,0.95,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,16.7,13.29,2.91,1.26,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,18.3,10.4,2.98,1.76,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,19.3,8.5,3.06,2.27,,,1,1,Extension monitoring
+Riesling,Veraison to Harvest,Niagara,2025-09-29,2025,2306.0,18.7,8.8,3.04,2.12,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2024-08-26,2024,2003.0,18.5,10.46,3.19,1.77,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2024-09-02,2024,2124.0,20.5,8.31,3.29,2.47,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2024-09-09,2024,2212.0,21.7,7.64,3.34,2.84,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2025-08-25,2025,1983.0,15.9,11.25,3.09,1.41,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2025-09-02,2025,2092.0,17.9,8.3,3.09,2.16,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2025-09-08,2025,2176.0,18.4,6.96,3.21,2.64,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2025-09-15,2025,2270.0,21.6,6.21,3.36,3.48,,,1,1,Extension monitoring
+Sauvignon Blanc,Veraison to Harvest,Long Island,2025-09-22,2025,2364.0,21.4,6.19,3.32,3.46,,,1,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-07-01,2024,1021.0,3.2,19.92,2.79,0.16,0.48,10.1,1,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-07-18,2024,1330.0,3.6,27.45,2.99,0.13,0.84,12.1,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-07-30,2024,1534.0,5.7,31.26,2.9,0.18,1.08,13.3,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-08-13,2024,1778.0,10.9,18.53,2.96,0.59,1.42,14.1,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-08-26,2024,1971.0,16.6,12.81,3.2,1.3,1.66,12.9,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2024-09-09,2024,2180.0,20.0,7.83,3.47,2.57,1.76,15.1,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2025-07-07,2025,1011.0,3.8,24.47,2.92,0.16,,,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2025-07-24,2025,1310.0,4.3,28.96,2.81,0.15,,,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2025-08-07,2025,1552.0,6.1,29.11,2.91,0.21,,,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2025-08-19,2025,1776.0,9.6,18.52,3.01,0.52,,,5,1,Extension monitoring
+Seyval,NYWGF,Western NY,2025-09-08,2025,2024.0,14.2,10.78,3.2,1.31,1.1,13.1,5,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,17.0,13.18,2.94,1.29,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,19.2,10.34,3.11,1.86,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,20.6,9.41,3.19,2.19,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,12.2,15.11,2.83,0.81,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,13.6,13.4,2.87,1.01,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,14.8,11.11,2.98,1.33,,,1,1,Extension monitoring
+Seyval Blanc,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,15.7,10.0,3.03,1.57,,,1,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2024-08-26,2024,1912.0,15.0,10.72,3.24,1.4,,,1,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2024-09-05,2024,2055.0,18.0,9.34,3.45,1.94,,,2,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-08-29,2025,1848.0,15.0,15.24,3.16,0.98,,,2,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-09-08,2025,1967.0,17.3,11.3,3.4,1.53,,,1,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-09-15,2025,2046.0,18.5,11.37,3.31,1.63,,,1,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-09-22,2025,2119.0,20.0,9.65,3.4,2.07,,,1,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-10-02,2025,2246.0,19.4,8.72,3.56,2.24,,,2,1,Extension monitoring
+St. Croix,Veraison to Harvest,Hudson Valley,2025-10-13,2025,2323.0,20.0,8.9,3.56,2.25,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-08-25,2025,1855.0,14.9,13.97,2.75,1.07,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-09-02,2025,1949.0,16.0,12.9,2.82,1.24,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-09-08,2025,2019.0,17.5,11.68,2.9,1.5,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-09-15,2025,2108.0,19.3,9.32,2.96,2.07,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-09-22,2025,2203.0,20.2,8.25,3.03,2.45,,,1,1,Extension monitoring
+Syrah,Veraison to Harvest,Niagara,2025-10-02,2025,2350.0,21.0,6.8,3.14,3.1,,,2,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-06-30,2024,924.0,3.1,20.37,3.01,0.15,0.26,9.6,1,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-07-15,2024,1196.0,3.9,34.79,2.76,0.11,0.82,11.2,1,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-07-29,2024,1424.0,5.1,43.06,2.74,0.12,0.98,9.9,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-08-12,2024,1660.0,11.2,26.2,2.81,0.43,1.3,13.1,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-08-28,2024,1891.0,17.0,14.48,2.93,1.18,1.66,15.1,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-09-09,2024,2039.0,19.8,8.67,3.05,2.34,1.83,14.1,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-09-20,2024,2193.0,22.6,7.53,3.11,3.01,1.77,16.6,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2024-10-01,2024,2332.0,21.4,6.21,3.23,3.46,1.9,18.0,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-07-06,2025,944.0,4.8,32.18,3.08,0.15,0.18,,1,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-07-20,2025,1205.0,4.0,35.66,2.77,0.11,0.76,13.5,1,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-07-30,2025,1384.0,4.4,40.43,2.92,0.11,1.01,14.3,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-08-19,2025,1712.0,10.7,28.4,2.84,0.38,1.05,14.6,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-09-04,2025,1909.0,17.4,8.4,3.18,2.08,1.72,16.9,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-09-17,2025,2056.0,20.0,6.24,3.31,3.22,1.76,16.3,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-09-29,2025,2207.0,21.1,6.06,3.31,3.48,1.85,16.6,5,1,Extension monitoring
+Traminette,NYWGF,Finger Lakes,2025-10-16,2025,2343.0,22.8,6.38,3.29,3.59,1.67,16.2,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-07-07,2025,1005.0,3.6,20.71,3.0,0.17,,,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-07-24,2025,1302.0,3.9,26.55,2.91,0.15,,,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-08-07,2025,1543.0,4.7,35.41,2.88,0.13,,,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-08-19,2025,1766.0,7.7,28.39,2.98,0.27,,,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-09-08,2025,2013.0,15.0,11.47,3.24,1.31,2.72,17.6,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-09-22,2025,2200.0,17.9,7.72,3.48,2.32,2.58,17.3,5,1,Extension monitoring
+Valvin Muscat,NYWGF,Western NY,2025-10-06,2025,2383.0,20.5,7.36,3.63,2.79,2.49,16.9,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-06-30,2024,925.0,2.9,19.64,3.0,0.15,0.38,10.9,1,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-07-16,2024,1216.0,3.9,35.01,2.75,0.11,0.7,10.7,1,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-07-31,2024,1463.0,6.9,37.65,2.78,0.18,0.66,11.3,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-08-12,2024,1660.0,13.3,15.44,3.08,0.86,1.16,12.8,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-08-28,2024,1891.0,19.0,13.5,3.1,1.41,1.57,13.5,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2024-09-09,2024,2039.0,22.4,11.74,3.1,1.92,1.63,14.4,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-07-06,2025,946.0,4.7,32.18,2.96,0.15,0.31,,1,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-07-20,2025,1208.0,3.8,33.87,2.78,0.11,0.65,12.6,1,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-07-30,2025,1387.0,4.8,42.36,2.9,0.11,0.85,13.5,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-08-19,2025,1717.0,15.7,22.19,2.94,0.71,1.06,14.4,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-09-04,2025,1916.0,20.6,10.12,3.17,2.05,1.51,16.0,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-09-18,2025,2077.0,23.1,10.4,3.23,2.23,1.54,15.7,5,1,Extension monitoring
+Vignoles,NYWGF,Finger Lakes,2025-09-29,2025,2216.0,23.4,9.48,3.22,2.47,1.63,16.1,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-07-01,2024,1021.0,3.6,18.61,2.82,0.19,0.4,9.9,1,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-07-18,2024,1330.0,3.6,27.83,2.95,0.13,0.82,12.5,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-07-30,2024,1534.0,6.1,36.6,2.83,0.17,0.98,13.2,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-08-13,2024,1778.0,12.2,25.43,2.9,0.48,1.46,14.0,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-08-26,2024,1971.0,18.3,17.28,3.04,1.06,1.72,13.9,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2024-09-09,2024,2180.0,22.0,13.18,3.2,1.68,1.84,15.4,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2025-07-24,2025,1310.0,3.9,28.68,2.78,0.14,,,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2025-08-07,2025,1552.0,5.2,36.22,2.8,0.14,,,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2025-08-19,2025,1776.0,14.7,23.32,3.04,0.63,,,5,1,Extension monitoring
+Vignoles,NYWGF,Western NY,2025-09-08,2025,2024.0,22.5,15.53,3.14,1.45,1.68,15.0,5,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-08-26,2024,1847.0,17.0,17.6,2.79,0.97,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-09-02,2024,1955.0,18.7,15.64,2.85,1.2,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-09-09,2024,2028.0,21.7,14.75,2.96,1.47,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-09-16,2024,2126.0,22.0,14.4,2.9,1.53,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-09-23,2024,2221.0,23.0,12.66,2.98,1.82,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Finger Lakes,2024-09-30,2024,2306.0,22.4,11.55,3.07,1.94,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2024-08-26,2024,1971.0,17.8,16.8,2.83,1.06,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2024-09-02,2024,2091.0,20.1,16.76,2.97,1.2,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2024-09-09,2024,2179.0,22.1,15.09,3.04,1.46,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2025-08-25,2025,1863.0,17.0,20.17,2.82,0.84,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2025-09-02,2025,1953.0,20.1,18.3,2.88,1.1,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2025-09-08,2025,2024.0,21.2,17.45,2.92,1.21,,,1,1,Extension monitoring
+Vignoles,Veraison to Harvest,Lake Erie,2025-09-15,2025,2111.0,21.7,15.96,2.99,1.36,,,1,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-07-01,2024,1021.0,3.8,22.05,2.77,0.17,0.72,11.9,1,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-07-18,2024,1330.0,4.4,32.62,2.96,0.14,1.26,14.1,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-07-30,2024,1534.0,5.5,37.09,2.83,0.15,1.26,14.3,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-08-13,2024,1778.0,10.8,19.36,2.91,0.56,1.74,13.2,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-08-26,2024,1971.0,14.3,14.39,3.04,1.0,1.84,12.9,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-09-09,2024,2180.0,15.6,10.68,3.2,1.47,1.94,14.5,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-09-16,2024,2286.0,16.6,8.89,3.25,1.86,2.04,15.4,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-09-23,2024,2398.0,16.4,7.76,3.32,2.12,2.16,15.3,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2024-09-30,2024,2504.0,15.9,7.85,3.38,2.03,2.18,16.0,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-07-07,2025,1011.0,4.5,26.45,2.9,0.17,,,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-07-24,2025,1310.0,4.4,28.84,2.81,0.15,,,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-08-07,2025,1552.0,6.7,32.37,2.83,0.21,,,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-08-19,2025,1776.0,11.8,16.78,3.08,0.7,,,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-09-08,2025,2024.0,15.6,12.13,3.18,1.29,1.88,15.5,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-09-22,2025,2212.0,17.2,8.61,3.17,2.0,1.95,15.3,5,1,Extension monitoring
+Vincent,NYWGF,Western NY,2025-10-06,2025,2395.0,17.8,7.48,3.33,2.39,1.74,15.1,5,1,Extension monitoring
