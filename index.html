@@ -43,6 +43,13 @@
   h2.section2{font-size:16px;margin:26px 0 2px;padding-top:16px;border-top:1px solid var(--line)}
   .hint{color:var(--muted);font-size:13px;margin:4px 0 8px}
   select[multiple]{min-width:190px;padding:4px}
+  .compare2{display:flex;flex-wrap:wrap;gap:22px}
+  .cg{min-width:240px}
+  .cg-h{font-size:12px;color:var(--muted);margin-bottom:6px;font-weight:600}
+  .checks{display:flex;flex-wrap:wrap;gap:6px 14px;max-width:560px}
+  .checks label{display:inline-flex;align-items:center;gap:5px;font-size:13px;color:var(--ink);cursor:pointer}
+  .checks label.disabled{opacity:.4;cursor:default}
+  .checks .muted{color:var(--muted);font-size:13px}
 </style>
 </head>
 <body>
@@ -92,7 +99,7 @@
       <label>X-axis
         <select id="f_xaxis">
           <option value="date">Calendar date</option>
-          <option value="gdd">Cumulative GDD</option>
+          <option value="gdd" selected>Cumulative GDD</option>
         </select>
       </label>
       <label>Measure (Y-axis)
@@ -130,15 +137,17 @@
   </details>
 
   <h2 class="section2">Compare cultivars and regions</h2>
-  <p class="hint">Pick up to 3 cultivars and up to 3 regions to overlay their ripening trajectories. This chart uses the same program, year, measure, and X-axis chosen above. Hold Ctrl (or Cmd) and click to select more than one.</p>
+  <p class="hint">Pick up to 3 regions, then choose from the cultivars available in those regions (up to 3), to overlay their ripening trajectories. This chart uses the same program, year, measure, and X-axis chosen above.</p>
   <div class="panel">
-    <div class="filters">
-      <label>Cultivars (up to 3)
-        <select id="f2_cultivars" multiple size="6"></select>
-      </label>
-      <label>Regions (up to 3)
-        <select id="f2_regions" multiple size="6"></select>
-      </label>
+    <div class="compare2">
+      <div class="cg">
+        <div class="cg-h">1. Regions (up to 3)</div>
+        <div id="c2_regions" class="checks"></div>
+      </div>
+      <div class="cg">
+        <div class="cg-h">2. Cultivars (up to 3)</div>
+        <div id="c2_cultivars" class="checks"><span class="muted">Pick one or more regions first.</span></div>
+      </div>
     </div>
   </div>
   <div id="chart2wrap" class="panel" hidden>
@@ -486,10 +495,37 @@ function niceCeil(v){
 
 const DASH2 = ["", "7 4", "2 4"];   // solid / dashed / dotted for region 1 / 2 / 3
 
+function getChecked(id){ return [...document.querySelectorAll(`#${id} input:checked`)].map(b=>b.value); }
+function capChecks(id, max){
+  const boxes=[...document.querySelectorAll(`#${id} input`)];
+  const atMax = boxes.filter(b=>b.checked).length>=max;
+  boxes.forEach(b=>{ b.disabled = !b.checked && atMax; const l=b.closest("label"); if(l) l.classList.toggle("disabled", b.disabled); });
+}
+function buildRegionChecks(regions){
+  const host=$("c2_regions"); host.innerHTML="";
+  for(const r of regions){ const l=document.createElement("label"); l.innerHTML=`<input type="checkbox" value="${r}">${r}`; host.appendChild(l); }
+}
+function availableCultivars(regions){
+  const prog=$("f_program").value, yr=$("f_year").value, set=new Set();
+  for(const row of allRows){
+    if(regions.includes(row.region) && (prog==="All"||row.program===prog) && (yr==="All"||String(row.year)===String(yr))) set.add(row.cultivar);
+  }
+  return [...set].sort();
+}
+function buildCultivarChecks(){
+  const host=$("c2_cultivars"), regions=getChecked("c2_regions");
+  if(!regions.length){ host.innerHTML='<span class="muted">Pick one or more regions first.</span>'; return; }
+  const prev=new Set(getChecked("c2_cultivars")), cults=availableCultivars(regions);
+  if(!cults.length){ host.innerHTML='<span class="muted">No cultivars for that selection.</span>'; return; }
+  host.innerHTML="";
+  for(const c of cults){ const l=document.createElement("label"); l.innerHTML=`<input type="checkbox" value="${c.replace(/"/g,"&quot;")}"${prev.has(c)?" checked":""}>${c}`; host.appendChild(l); }
+  capChecks("c2_cultivars",3);
+}
+
 // second chart: overlay up to 3 cultivars x up to 3 regions, colour by cultivar, line style by region
 function renderChart2(){
   const host=$("chart2"), leg=$("legend2"), wrap=$("chart2wrap");
-  let cults=getMulti("f2_cultivars"), regs=getMulti("f2_regions");
+  let cults=getChecked("c2_cultivars"), regs=getChecked("c2_regions");
   const capNote = (cults.length>3||regs.length>3) ? " (showing first 3 of each)" : "";
   cults=cults.slice(0,3); regs=regs.slice(0,3);
   if(!cults.length || !regs.length){ wrap.hidden=true; return; }
@@ -549,14 +585,8 @@ async function fillOptions(){
   await add("program", $("f_program"));
   await add("region", $("f_region"));
   await add("year", $("f_year"));
-  const addMulti = async (colName, sel) => {
-    const res = await conn.query(`SELECT DISTINCT ${colName} AS v FROM ripening WHERE ${colName} IS NOT NULL ORDER BY v`);
-    for (const row of res.toArray().map(r=>r.toJSON())){
-      const o = document.createElement("option"); o.value = row.v; o.textContent = row.v; sel.appendChild(o);
-    }
-  };
-  await addMulti("cultivar", $("f2_cultivars"));
-  await addMulti("region", $("f2_regions"));
+  const regRes = await conn.query("SELECT DISTINCT region AS v FROM ripening WHERE region IS NOT NULL ORDER BY v");
+  buildRegionChecks(regRes.toArray().map(r=>r.toJSON().v));
 }
 
 async function main(){
@@ -599,9 +629,11 @@ async function main(){
 
     await doRun();
 
-    // second chart: compare up to 3 cultivars x 3 regions; shares program/year/measure/x-axis
-    ["f2_cultivars","f2_regions","f_program","f_year","f_xaxis","f_ymeas","f_nowgdd"]
-      .forEach(id=>$(id).addEventListener("change", renderChart2));
+    // second chart: pick up to 3 regions, then cultivars available in them (shares program/year/measure/x-axis)
+    $("c2_regions").addEventListener("change", ()=>{ capChecks("c2_regions",3); buildCultivarChecks(); renderChart2(); });
+    $("c2_cultivars").addEventListener("change", ()=>{ capChecks("c2_cultivars",3); renderChart2(); });
+    ["f_program","f_year"].forEach(id=>$(id).addEventListener("change", ()=>{ buildCultivarChecks(); renderChart2(); }));
+    ["f_xaxis","f_ymeas","f_nowgdd"].forEach(id=>$(id).addEventListener("change", renderChart2));
     renderChart2();
   } catch(e){
     setStatus("Failed to start: " + e.message + ". If you opened this file directly, serve the folder over http (see README).", true);
