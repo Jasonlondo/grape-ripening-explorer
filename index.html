@@ -506,11 +506,20 @@ function buildRegionChecks(regions){
   for(const r of regions){ const l=document.createElement("label"); l.innerHTML=`<input type="checkbox" value="${r}">${r}`; host.appendChild(l); }
 }
 function availableCultivars(regions){
-  const prog=$("f_program").value, yr=$("f_year").value, set=new Set();
+  // offer a cultivar only if it has enough points to draw a curve (>=5, the loess minimum)
+  // in at least one selected region, under the current program, year, measure, and X-axis
+  const prog=$("f_program").value, yr=$("f_year").value, col=$("f_ymeas").value, xc=XAXIS[$("f_xaxis").value];
+  const counts={};
   for(const row of allRows){
-    if(regions.includes(row.region) && (prog==="All"||row.program===prog) && (yr==="All"||String(row.year)===String(yr))) set.add(row.cultivar);
+    if(!regions.includes(row.region)) continue;
+    if(prog!=="All" && row.program!==prog) continue;
+    if(yr!=="All" && String(row.year)!==String(yr)) continue;
+    if(row[col]==null || !xc.ok(row)) continue;
+    const k=row.cultivar+"|"+row.region; counts[k]=(counts[k]||0)+1;
   }
-  return [...set].sort();
+  const ok=new Set();
+  for(const k in counts){ if(counts[k]>=5) ok.add(k.split("|")[0]); }
+  return [...ok].sort();
 }
 function buildCultivarChecks(){
   const host=$("c2_cultivars"), regions=getChecked("c2_regions");
@@ -632,8 +641,8 @@ async function main(){
     // second chart: pick up to 3 regions, then cultivars available in them (shares program/year/measure/x-axis)
     $("c2_regions").addEventListener("change", ()=>{ capChecks("c2_regions",3); buildCultivarChecks(); renderChart2(); });
     $("c2_cultivars").addEventListener("change", ()=>{ capChecks("c2_cultivars",3); renderChart2(); });
-    ["f_program","f_year"].forEach(id=>$(id).addEventListener("change", ()=>{ buildCultivarChecks(); renderChart2(); }));
-    ["f_xaxis","f_ymeas","f_nowgdd"].forEach(id=>$(id).addEventListener("change", renderChart2));
+    ["f_program","f_year","f_ymeas"].forEach(id=>$(id).addEventListener("change", ()=>{ buildCultivarChecks(); renderChart2(); }));
+    ["f_xaxis","f_nowgdd"].forEach(id=>$(id).addEventListener("change", renderChart2));
     renderChart2();
   } catch(e){
     setStatus("Failed to start: " + e.message + ". If you opened this file directly, serve the folder over http (see README).", true);
