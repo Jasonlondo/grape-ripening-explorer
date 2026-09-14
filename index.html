@@ -116,14 +116,7 @@
         <input type="number" id="f_nowgdd" step="10" min="0" value="2100">
       </label>
       <button id="run" disabled>Run query</button>
-      <button id="dl" class="secondary" disabled>Download CSV</button>
     </div>
-
-    <details>
-      <summary>Advanced: the SQL this page runs (editable)</summary>
-      <textarea id="sql" spellcheck="false"></textarea>
-      <div style="margin-top:8px"><button id="runsql" class="secondary" disabled>Run this SQL</button></div>
-    </details>
   </div>
 
   <div class="count" id="count"></div>
@@ -131,10 +124,6 @@
     <div id="chart"></div>
     <div class="legend" id="legend"></div>
   </div>
-  <details id="tabledetails" hidden>
-    <summary id="tablesummary">Show the matching records as a table</summary>
-    <div class="tablewrap"><table id="table"></table></div>
-  </details>
 
   <h2 class="section2">Compare cultivars and regions</h2>
   <p class="hint">Pick up to 3 regions, then choose from the cultivars available in those regions (up to 3), to overlay their ripening trajectories. This chart uses the same program, year, measure, and X-axis chosen above.</p>
@@ -220,9 +209,7 @@ async function runQuery(sql){
   const rows = res.toArray().map(r => r.toJSON());
   lastRows = rows;
   renderCount(rows.length);
-  renderTable(rows);
   renderChart(rows);
-  $("dl").disabled = rows.length === 0;
 }
 
 function renderCount(n){
@@ -621,20 +608,13 @@ async function main(){
     const tot = (await conn.query("SELECT count(*) AS n FROM ripening")).toArray()[0].toJSON().n;
     await fillOptions();
     setStatus(`Ready. ${Number(tot).toLocaleString()} pooled AVA-level records from 2 programs loaded. Pick filters and run a query.`);
-    ["run","dl","runsql"].forEach(id=>$(id).disabled=false);
-    $("dl").disabled = true;
+    $("run").disabled = false;
 
-    const doRun = async () => { const s = baseSQL(); $("sql").value = s; try{ await runQuery(s);}catch(e){ setStatus("Query error: "+e.message,true);} };
+    const doRun = async () => { const s = baseSQL(); try{ await runQuery(s);}catch(e){ setStatus("Query error: "+e.message,true);} };
     $("run").addEventListener("click", doRun);
     ["f_cultivar","f_program","f_region","f_year"].forEach(id=>$(id).addEventListener("change", doRun));
     $("f_brix").addEventListener("change", doRun);
     ["f_ymeas","f_xaxis","f_colorby","f_nowgdd"].forEach(id=>$(id).addEventListener("change", ()=>renderChart(lastRows))); // re-plot only
-    $("runsql").addEventListener("click", async ()=>{ try{ await runQuery($("sql").value);}catch(e){ setStatus("SQL error: "+e.message,true);} });
-    $("dl").addEventListener("click", ()=>{
-      const blob = new Blob([toCSV(lastRows)], {type:"text/csv"});
-      const a = document.createElement("a"); a.href = URL.createObjectURL(blob);
-      a.download = "grapecast_query.csv"; a.click(); URL.revokeObjectURL(a.href);
-    });
 
     await doRun();
 
