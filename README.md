@@ -9,6 +9,14 @@ The demo combines two New York programs for the same years (2024 to 2025), the N
 Cornell Veraison to Harvest program, harmonized to one schema. The production repository would span every project
 data source.
 
+## Data use and license
+
+These are unpublished, pre-publication research data of the Londo Lab, Cornell University (Cornell AgriTech).
+They are provided for interactive viewing through the web tool only. Do not download, redistribute, or use the
+data in any publication or derived product without written permission from the Londo Lab. Full terms are in
+[LICENSE](LICENSE), and citation information is in [CITATION.cff](CITATION.cff). Copyright 2026 Jason Londo,
+Londo Lab.
+
 ## What is in this repository
 
 - `index.html` — the page. It loads a full SQL engine (DuckDB) in the browser, reads the public pooled file, and

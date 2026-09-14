@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: New York Cool Climate Grape Ripening Repository
+message: >-
+  These are unpublished, pre-publication data. Do not use them in any
+  publication or derived product without written permission from the Londo Lab.
+  See the LICENSE file for terms.
+type: dataset
+authors:
+  - family-names: Londo
+    given-names: Jason
+    affiliation: Cornell University, Cornell AgriTech
+year: 2026
+url: https://jasonlondo.github.io/grape-ripening-explorer/
+repository-code: https://github.com/Jasonlondo/grape-ripening-explorer
